@@ -17,6 +17,10 @@ For ease of use, please visit our app on: https://sofa-to-strider.vercel.app/
 
   <img align = "center" src="/readme-images/location-permission.png" alt="location-request-prompt">
 
+ <h4><u>⚠️ Notice:</u></h4>
+As of September 2025, the Google Places API billing for this project has been discontinued.  
+Therefore the 'WHERE' section of the app is unfortunately currently non-functional.
+
 
 ## Installation
 
